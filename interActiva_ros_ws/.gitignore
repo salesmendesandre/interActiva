@@ -1,0 +1,25 @@
+*.pyc
+*.iml
+*.swp
+.project
+.pydevproject
+.DS_Store
+.idea
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# colcon/CMake output
+build
+install
+log
+
+.catkin_workspace
+build/
+devel/
+install/
+log/
+recordings/
+output_videos/
+output_data/
